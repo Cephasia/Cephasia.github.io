@@ -1477,14 +1477,14 @@ html[data-theme="light"] #header .content .header-role {
 
 /* Turning data into clear insights... */
 html[data-theme="light"] #header .content .header-tagline {
-    color: #26323d !important;
+    color: #111820 !important;
     opacity: 1 !important;
     font-weight: 500;
 }
 
 /* LinkedIn / GitHub / X paragraph */
 html[data-theme="light"] #header .content .header-links {
-    color: #3a4652 !important;
+    color: #111820 !important;
     opacity: 1 !important;
 }
 
