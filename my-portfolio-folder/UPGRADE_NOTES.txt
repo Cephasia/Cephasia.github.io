@@ -1,0 +1,31 @@
+PORTFOLIO UPGRADE NOTES
+======================
+
+This is an upgrade of the existing portfolio, not a rebuild.
+
+Preserved:
+- Existing HTML page structure, portfolio sections, project descriptions, links and project assets.
+- Existing jQuery / Dimension interactions and article navigation.
+- Existing project gallery and image lightbox behaviour.
+- Existing certificate preview behaviour.
+- Existing theme toggle, saved theme preference and system-theme detection.
+- Existing dark-mode styling and dark background artwork.
+
+Upgraded:
+- Refined the light theme with a modern technology palette (blue, slate and clean white surfaces).
+- Softened the existing light-mode background artwork so it reads as a subtle texture.
+- Improved light-mode contrast, navigation, cards, buttons, borders, shadows and mobile spacing.
+- Improved homepage introduction copy for grammar and clarity without changing the portfolio's positioning.
+- Added lightweight browser theme-color and Open Graph metadata.
+- Restored pinch-zoom accessibility by allowing user scaling in the viewport.
+- Corrected the missing Data Job Postings gallery image reference to the image that is present in the package.
+
+Validation performed:
+- JavaScript syntax check passed.
+- CSS parsing check passed.
+- All local HTML asset references resolved.
+- All in-page hash links resolved.
+- No duplicate HTML IDs found.
+- External links opening in a new tab include noopener protection.
+
+No backend, analytics, external form service, or hosting configuration was changed.

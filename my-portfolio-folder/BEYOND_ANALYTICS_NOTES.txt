@@ -1,0 +1,21 @@
+BEYOND ANALYTICS - NOTES
+========================
+
+What was added (nothing existing was removed or redesigned):
+- index.html : the "Beyond Analytics" pill (in the header) and the #beyond view (before </main>), plus one extra script tag.
+- css/main.css : styles for the pill and the view (block at the very end).
+- js/main.js : session-based unlock logic (block at the very end).
+- js/beyond-game.js (new) : the playable Ayo game and the "tap to see the vision" toggle.
+- images/beyond/ (new) : project previews and the small seed image used in the game.
+
+How the button unlocks:
+Visit Home / Projects / About / Contact, then return to the homepage. The button then stays for that browser session.
+To test again from scratch, open the site in a new private window.
+
+Edit a project: open index.html and search for "by-card".
+Add a project: copy the commented template at the end of the project list.
+Live links: Ayo Journey -> https://ayoolopon.netlify.app
+            Oyinn's Treat -> https://oyinnstreat.netlify.app
+
+Deploy (GitHub Pages): upload the CONTENTS of this folder to your cephasia.github.io repository
+(replace the existing files, keep the same folder names), commit, wait a minute, then hard-refresh.

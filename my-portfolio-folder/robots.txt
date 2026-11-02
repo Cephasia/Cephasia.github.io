@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cephasia.github.io/sitemap.xml
